@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 60px;
+    border-width: 4px;
+    border-color: white;
+    border-style:solid;
+}
+
+a {
+    margin-right: 200px;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+
+button {
+    background-color: #f08804;
+}

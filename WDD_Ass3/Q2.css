@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+table{
+    /* width: 100%; */
+    border: 1px solid #000;
+}
+
+tr, td{
+    border: 1px solid #000;
+    text-align: center;
+    height: 40px;
+}
+
+th{
+    border: 1px solid #000;
+    font-weight: normal;
+    padding: 2px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sub1 {
+    color: #4a7ee4;
+    font-weight:800;
+}
+
+.sub2 {
+    color: #ff9900;
+    font-weight:800;
+}
+
+.sub3 {
+    color: #9933cc;
+    font-weight:800;
+}
+
+.sub4 {
+    color: #33cc33;
+    font-weight:800;
+}
+
+.sub5 {
+    color: #ff3333;
+    font-weight:800;
+}
+
+.swa {
+    color: #ff3333;
+    font-weight:800;
+}
+
+.seminar {
+    font-weight: 800;
+}
+
+.counselling{
+    font-weight: 800;
+}
+
+.library{
+    font-family: 'Times New Roman', Times, serif
+}
+
+.lab{
+    font-weight: 800;
+}
+
+.lunch{
+    font-family: 'Times New Roman', Times, serif;
+    writing-mode:vertical-lr;
+    text-orientation: upright;
+    letter-spacing: 2px;
+}
